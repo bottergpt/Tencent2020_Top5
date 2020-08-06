@@ -1,0 +1,82 @@
+absl-py==0.9.0
+astor==0.7.1
+attrs==19.3.0
+autopep8==1.5.3
+backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
+bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1588608214987/work
+certifi==2020.6.20
+decorator==4.4.2
+defusedxml==0.6.0
+entrypoints==0.3
+et-xmlfile==1.0.1
+gast==0.3.3
+grpcio @ file:///home/conda/feedstock_root/build_artifacts/grpcio_1592839922016/work
+h5py @ file:///home/conda/feedstock_root/build_artifacts/h5py_1593217411052/work
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1593211372860/work
+ipykernel @ file:///home/conda/feedstock_root/build_artifacts/ipykernel_1590020193992/work/dist/ipykernel-5.3.0-py3-none-any.whl
+ipython @ file:///home/conda/feedstock_root/build_artifacts/ipython_1593235451385/work
+ipython-genutils==0.2.0
+isort==4.3.21
+jdcal==1.4.1
+jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1592619883817/work
+Jinja2==2.11.2
+joblib==0.15.1
+jsonschema==3.2.0
+jupyter-client==6.1.3
+jupyter-core==4.6.3
+Keras==2.2.4
+Keras-Applications==1.0.8
+Keras-Preprocessing==1.1.0
+Mako==1.1.0
+Markdown @ file:///home/conda/feedstock_root/build_artifacts/markdown_1589366472132/work
+MarkupSafe==1.1.1
+mistune==0.8.4
+nb-conda-kernels==2.2.3
+nbconvert==5.6.1
+nbformat==5.0.6
+notebook @ file:///home/conda/feedstock_root/build_artifacts/notebook_1588887228799/work
+numexpr==2.7.1
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1591485220230/work
+openpyxl==3.0.4
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1589925210001/work
+pandas==1.0.5
+pandocfilters==1.4.2
+parso==0.7.0
+pexpect==4.8.0
+pickleshare==0.7.5
+prometheus-client @ file:///home/conda/feedstock_root/build_artifacts/prometheus_client_1590412252446/work
+prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1592500439797/work
+protobuf==3.12.3
+ptyprocess==0.6.0
+pycodestyle==2.6.0
+Pygments==2.6.1
+pygpu==0.7.6
+pyparsing==2.4.7
+pyrsistent==0.16.0
+python-dateutil==2.8.1
+pytz==2020.1
+PyYAML==5.3.1
+pyzmq==19.0.1
+scikit-learn==0.23.1
+scipy==1.4.1
+Send2Trash==1.5.0
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+sklearn==0.0
+tables==3.6.1
+tensorboard==1.11.0
+tensorflow==1.11.0
+termcolor==1.1.0
+terminado==0.8.3
+testpath==0.4.4
+Theano @ file:///home/conda/feedstock_root/build_artifacts/theano_1592974408140/work
+threadpoolctl==2.1.0
+toml==0.10.1
+tornado==6.0.4
+tqdm==4.46.1
+traitlets==4.3.3
+wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1592931742287/work
+webencodings==0.5.1
+Werkzeug==1.0.1
+xlrd==1.2.0
+xlwt==1.3.0
+zipp==3.1.0
