@@ -1,0 +1,15 @@
+.DS_Store
+*.log
+__pycache__/
+*.zip
+*.pkl
+*.pickle
+*.h5
+.ipynb_checkpoints/
+catboost_info/
+*.npy
+*.pth
+*.ckpt
+*.ck
+*.m
+*.model
