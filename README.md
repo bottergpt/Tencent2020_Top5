@@ -2,8 +2,9 @@
 
 具体方案可以参考答辩PPT以及答辩视频。
 
-答辩PPT：
-答辩视频：https://www.bilibili.com/video/BV1Ua4y1E7RP?from=search&seid=9557594337111978214
+* [答辩PPT](https://github.com/zhangqibot/Tencent2020_Top5/blob/master/%E7%AD%94%E8%BE%A9PPT.pptx)
+
+* [答辩视频](https://www.bilibili.com/video/BV1Ua4y1E7RP?from=search&seid=9557594337111978214)
 
 #### 1. 队伍名称及成员：BANJITINO
 
