@@ -2,6 +2,9 @@
 
 具体方案可以参考答辩PPT以及答辩视频。
 
+答辩PPT：
+答辩视频：https://www.bilibili.com/video/BV1Ua4y1E7RP?from=search&seid=9557594337111978214
+
 #### 1. 队伍名称及成员：BANJITINO
 
 [zhangqibot](https://github.com/zhangqibot)、[阿郑zzz](https://github.com/zhenglinghan)、[贝壳er](https://github.com/lixiangwang)
